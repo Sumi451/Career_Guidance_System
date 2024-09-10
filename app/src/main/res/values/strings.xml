@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Career Guidance System</string>
+    <string name="project_icon">Project Icon</string>
+    <string name="background">Background</string>
+    <string name="Careerguidancetext">𝘾𝙖𝙧𝙚𝙚𝙧 𝙂𝙪𝙞𝙙𝙖𝙣𝙘𝙚 𝙎𝙮𝙨𝙩𝙚𝙢</string>
+    <string name="login_button">login button</string>
+    <string name="login_using_mail">Login using mail</string>
+    <string name="sign_up">Sign up</string>
+    <string name="logo">Logo</string>
+</resources>
