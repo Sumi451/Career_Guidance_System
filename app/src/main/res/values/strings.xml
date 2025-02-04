@@ -7,4 +7,14 @@
     <string name="login_using_mail">Login using mail</string>
     <string name="sign_up">Sign up</string>
     <string name="logo">Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_form_logo">Login form logo</string>
+    <string name="login">Login</string>
+    <string name="sign_up_logo">Sign up logo</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="default_web_client_id">591942332054-ra1eh2tpisieac21jo2jnknuic3svbob.apps.googleusercontent.com</string>
+    <string name="chatbot">ChatBot</string>
+    <string name="form">Form</string>
 </resources>

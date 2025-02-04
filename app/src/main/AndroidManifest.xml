@@ -2,6 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -12,6 +17,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CareerGuidanceSystem"
         tools:targetApi="31">
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -21,7 +27,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Login"></activity>
+        <activity android:name=".Login" />
+        <activity android:name=".Login_form" />
+        <activity android:name=".Homescreen" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".Chatbot" />
+        <activity android:name=".info_form"/>
+        <activity android:name=".Progress"/>
+        <activity android:name=".Feedback"/>
+        <activity android:name=".Social"/>
+        <activity android:name=".CourseReminderNotification"/>
+        <receiver android:name=".CourseReminderNotification"/>
 
     </application>
 

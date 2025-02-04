@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591942332054",
+    "project_id": "career-guidance-system-e3dfc",
+    "storage_bucket": "career-guidance-system-e3dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591942332054:android:01c354af4ee9567e451cb7",
+        "android_client_info": {
+          "package_name": "com.example.careerguidancesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591942332054-npvpluepobmnfm2g62sn2ook1rqq0qdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.careerguidancesystem",
+            "certificate_hash": "d36a65387532bfbfaca40e689ce7fc612526df01"
+          }
+        },
+        {
+          "client_id": "591942332054-ra1eh2tpisieac21jo2jnknuic3svbob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx2Iry9ZMbNvq8hZ2nFyIg61ReVPO8zdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591942332054-ra1eh2tpisieac21jo2jnknuic3svbob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

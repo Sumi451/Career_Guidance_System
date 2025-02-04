@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#FFFFFF">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Connect with us!"
+        android:textSize="24sp"
+        android:textColor="#000"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:layout_marginTop="32dp" />
+
+    <!-- Social Icons Section -->
+    <LinearLayout
+        android:id="@+id/social_icons_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_below="@id/title"
+        android:layout_marginTop="16dp">
+
+        <!-- WhatsApp Icon -->
+        <ImageView
+            android:id="@+id/whatsapp_icon"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:src="@drawable/ic_whatsapp"
+            android:contentDescription="WhatsApp Icon"
+            android:layout_margin="16dp" />
+
+        <!-- Facebook Icon -->
+        <ImageView
+            android:id="@+id/facebook_icon"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:src="@drawable/ic_facebook"
+            android:contentDescription="Facebook Icon"
+            android:layout_margin="16dp" />
+
+        <!-- Email Icon -->
+        <ImageView
+            android:id="@+id/email_icon"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:src="@drawable/ic_email"
+            android:contentDescription="Email Icon"
+            android:layout_margin="16dp" />
+    </LinearLayout>
+</RelativeLayout>
