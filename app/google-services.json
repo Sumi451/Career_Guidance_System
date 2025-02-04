@@ -14,7 +14,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "591942332054-npvpluepobmnfm2g62sn2ook1rqq0qdj.apps.googleusercontent.com",
+          "client_id": "use ur own",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.careerguidancesystem",
@@ -22,20 +22,20 @@
           }
         },
         {
-          "client_id": "591942332054-ra1eh2tpisieac21jo2jnknuic3svbob.apps.googleusercontent.com",
+          "client_id": "use your own",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBx2Iry9ZMbNvq8hZ2nFyIg61ReVPO8zdQ"
+          "current_key": "use ur own"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "591942332054-ra1eh2tpisieac21jo2jnknuic3svbob.apps.googleusercontent.com",
+              "client_id": "use ur own",
               "client_type": 3
             }
           ]
